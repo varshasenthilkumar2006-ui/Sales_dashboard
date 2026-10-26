@@ -1,0 +1,199 @@
+Date,Product,Category,Region,Quantity,Unit_Price,Sales_Amount,Cost,Profit
+2025-01-03,OnePlus 12,Electronics,West,5,52673,263365,219990,43375
+2025-01-07,Boat Airdopes,Electronics,West,5,47605,238025,190585,47440
+2025-01-10,Havells Iron,Home Appliances,East,8,53932,431456,358213,73243
+2025-01-12,Nike Shoes,Fashion,North,12,4200,50400,35280,15120
+2025-01-15,iPhone 15,Electronics,South,3,72000,216000,187200,28800
+2025-01-18,Lakme Foundation,Beauty,West,18,899,16182,11327,4855
+2025-01-20,Samsung S24,Electronics,North,4,58900,235600,200260,35340
+2025-01-22,Adidas Tshirt,Fashion,East,20,1299,25980,18186,7794
+2025-01-25,LG Refrigerator,Home Appliances,South,2,32500,65000,55250,9750
+2025-01-28,Maybelline Lipstick,Beauty,North,25,649,16225,11358,4867
+2025-02-02,MacBook Air,Electronics,West,2,89900,179800,152830,26970
+2025-02-05,Puma Jacket,Fashion,South,8,3499,27992,19594,8398
+2025-02-08,Philips Mixer,Home Appliances,North,6,4200,25200,20160,5040
+2025-02-10,Nivea Cream,Beauty,East,22,299,6578,4605,1973
+2025-02-14,Sony Headphones,Electronics,South,7,8999,62993,53544,9449
+2025-02-17,Levi's Jeans,Fashion,West,10,2799,27990,19593,8397
+2025-02-20,Prestige Cooker,Home Appliances,East,5,2800,14000,11200,2800
+2025-02-23,Dove Shampoo,Beauty,North,15,450,6750,4725,2025
+2025-02-26,iPad Pro,Electronics,North,3,78000,234000,198900,35100
+2025-03-01,Raymond Shirt,Fashion,South,14,1899,26586,18610,7976
+2025-03-04,Voltas AC,Home Appliances,West,2,38500,77000,65450,11550
+2025-03-07,Mamaearth Facewash,Beauty,East,20,349,6980,4886,2094
+2025-03-10,Noise Watch,Electronics,South,9,3499,31491,26767,4724
+2025-03-13,H&M Dress,Fashion,North,11,1999,21989,15392,6597
+2025-03-16,Dyson Vacuum,Home Appliances,East,1,42000,42000,35700,6300
+2025-03-19,The Body Shop Lotion,Beauty,West,16,799,12784,8949,3835
+2025-03-22,Samsung Washing Machine,Home Appliances,North,2,28900,57800,49130,8670
+2025-03-25,Skechers Shoes,Fashion,South,7,4999,34993,24495,10498
+2025-03-28,Boat Airdopes,Electronics,East,12,1999,23988,20390,3598
+2025-04-02,Nike Shoes,Fashion,West,9,4500,40500,28350,12150
+2025-04-05,iPhone 15,Electronics,North,2,71000,142000,120700,21300
+2025-04-08,Lakme Foundation,Beauty,South,14,950,13300,9310,3990
+2025-04-11,OnePlus 12,Electronics,East,4,51000,204000,173400,30600
+2025-04-14,Adidas Tshirt,Fashion,North,18,1399,25182,17627,7555
+2025-04-17,LG Refrigerator,Home Appliances,West,1,34000,34000,28900,5100
+2025-04-20,Maybelline Lipstick,Beauty,East,22,599,13178,9225,3953
+2025-04-23,MacBook Air,Electronics,South,1,92000,92000,78200,13800
+2025-04-26,Puma Jacket,Fashion,East,6,3799,22794,15956,6838
+2025-04-29,Philips Mixer,Home Appliances,North,8,3999,31992,25594,6398
+2025-05-03,Nivea Cream,Beauty,West,25,279,6975,4883,2092
+2025-05-06,Sony Headphones,Electronics,North,5,9500,47500,40375,7125
+2025-05-09,Levi's Jeans,Fashion,South,12,2999,35988,25192,10796
+2025-05-12,Prestige Cooker,Home Appliances,East,4,3100,12400,9920,2480
+2025-05-15,Dove Shampoo,Beauty,North,18,499,8982,6287,2695
+2025-05-18,iPad Pro,Electronics,West,2,81000,162000,137700,24300
+2025-05-21,Raymond Shirt,Fashion,East,15,2099,31485,22040,9445
+2025-05-24,Voltas AC,Home Appliances,South,3,36500,109500,93075,16425
+2025-05-27,Mamaearth Facewash,Beauty,West,19,399,7581,5307,2274
+2025-05-30,Noise Watch,Electronics,East,11,2999,32989,28041,4948
+2025-06-02,H&M Dress,Fashion,North,13,2299,29887,20921,8966
+2025-06-05,Dyson Vacuum,Home Appliances,West,1,45000,45000,38250,6750
+2025-06-08,The Body Shop Lotion,Beauty,South,17,849,14433,10103,4330
+2025-06-11,Samsung Washing Machine,Home Appliances,East,2,27500,55000,46750,8250
+2025-06-14,Skechers Shoes,Fashion,West,8,5299,42392,29674,12718
+2025-06-17,Boat Airdopes,Electronics,North,15,1799,26985,22937,4048
+2025-06-20,Nike Shoes,Fashion,East,10,4800,48000,33600,14400
+2025-06-23,iPhone 15,Electronics,South,3,69500,208500,177225,31275
+2025-06-26,Lakme Foundation,Beauty,North,16,899,14384,10069,4315
+2025-06-29,OnePlus 12,Electronics,West,5,49500,247500,210375,37125
+2025-07-02,Adidas Tshirt,Fashion,South,22,1199,26378,18465,7913
+2025-07-05,LG Refrigerator,Home Appliances,North,2,31000,62000,52700,9300
+2025-07-08,Maybelline Lipstick,Beauty,East,28,549,15372,10760,4612
+2025-07-11,MacBook Air,Electronics,East,2,87500,175000,148750,26250
+2025-07-14,Puma Jacket,Fashion,North,7,3599,25193,17635,7558
+2025-07-17,Philips Mixer,Home Appliances,South,9,3800,34200,27360,6840
+2025-07-20,Nivea Cream,Beauty,West,30,249,7470,5229,2241
+2025-07-23,Sony Headphones,Electronics,North,6,8799,52794,44875,7919
+2025-07-26,Levi's Jeans,Fashion,East,11,2899,31889,22322,9567
+2025-07-29,Prestige Cooker,Home Appliances,West,6,2650,15900,12720,3180
+2025-08-01,Dove Shampoo,Beauty,South,20,429,8580,6006,2574
+2025-08-04,iPad Pro,Electronics,North,3,76500,229500,195075,34425
+2025-08-07,Raymond Shirt,Fashion,West,16,1799,28784,20149,8635
+2025-08-10,Voltas AC,Home Appliances,East,2,35500,71000,60350,10650
+2025-08-13,Mamaearth Facewash,Beauty,North,21,379,7959,5571,2388
+2025-08-16,Noise Watch,Electronics,South,10,3299,32990,28042,4948
+2025-08-19,H&M Dress,Fashion,East,12,2099,25188,17632,7556
+2025-08-22,Dyson Vacuum,Home Appliances,North,1,41000,41000,34850,6150
+2025-08-25,The Body Shop Lotion,Beauty,West,15,779,11685,8180,3505
+2025-08-28,Samsung Washing Machine,Home Appliances,South,3,26800,80400,68340,12060
+2025-09-02,Skechers Shoes,Fashion,North,9,5100,45900,32130,13770
+2025-09-05,Boat Airdopes,Electronics,East,14,1899,26586,22598,3988
+2025-09-08,Nike Shoes,Fashion,South,11,4600,50600,35420,15180
+2025-09-11,iPhone 15,Electronics,West,2,73000,146000,124100,21900
+2025-09-14,Lakme Foundation,Beauty,East,19,920,17480,12236,5244
+2025-09-17,OnePlus 12,Electronics,North,4,54000,216000,183600,32400
+2025-09-20,Adidas Tshirt,Fashion,West,17,1349,22933,16053,6880
+2025-09-23,LG Refrigerator,Home Appliances,East,1,33500,33500,28475,5025
+2025-09-26,Maybelline Lipstick,Beauty,South,24,629,15096,10567,4529
+2025-09-29,MacBook Air,Electronics,South,1,91000,91000,77350,13650
+2025-10-03,Puma Jacket,Fashion,North,8,3699,29592,20714,8878
+2025-10-06,Philips Mixer,Home Appliances,West,7,4100,28700,22960,5740
+2025-10-09,Nivea Cream,Beauty,East,27,289,7803,5462,2341
+2025-10-12,Sony Headphones,Electronics,East,8,9200,73600,62560,11040
+2025-10-15,Levi's Jeans,Fashion,South,13,3099,40287,28201,12086
+2025-10-18,Prestige Cooker,Home Appliances,North,5,2950,14750,11800,2950
+2025-10-21,Dove Shampoo,Beauty,West,16,479,7664,5365,2299
+2025-10-24,iPad Pro,Electronics,West,2,79500,159000,135150,23850
+2025-10-27,Raymond Shirt,Fashion,East,14,1999,27986,19590,8396
+2025-10-30,Voltas AC,Home Appliances,South,2,37500,75000,63750,11250
+2025-11-02,Mamaearth Facewash,Beauty,North,18,359,6462,4523,1939
+2025-11-05,Noise Watch,Electronics,East,12,3150,37800,32130,5670
+2025-11-08,H&M Dress,Fashion,West,10,2399,23990,16793,7197
+2025-11-11,Dyson Vacuum,Home Appliances,East,1,43500,43500,36975,6525
+2025-11-14,The Body Shop Lotion,Beauty,South,14,829,11606,8124,3482
+2025-11-17,Samsung Washing Machine,Home Appliances,North,2,28200,56400,47940,8460
+2025-11-20,Skechers Shoes,Fashion,East,6,5400,32400,22680,9720
+2025-11-23,Boat Airdopes,Electronics,South,13,2099,27287,23194,4093
+2025-11-26,Nike Shoes,Fashion,North,8,4900,39200,27440,11760
+2025-11-29,iPhone 15,Electronics,East,3,70500,211500,179775,31725
+2025-12-02,Lakme Foundation,Beauty,West,15,980,14700,10290,4410
+2025-12-05,OnePlus 12,Electronics,South,5,51500,257500,218875,38625
+2025-12-08,Adidas Tshirt,Fashion,East,19,1249,23731,16612,7119
+2025-12-11,LG Refrigerator,Home Appliances,North,2,32000,64000,54400,9600
+2025-12-14,Maybelline Lipstick,Beauty,North,26,579,15054,10538,4516
+2025-12-17,MacBook Air,Electronics,North,1,88500,88500,75225,13275
+2025-12-20,Puma Jacket,Fashion,South,9,3400,30600,21420,9180
+2025-12-23,Philips Mixer,Home Appliances,East,6,4300,25800,20640,5160
+2025-12-26,Nivea Cream,Beauty,West,29,269,7801,5461,2340
+2025-12-29,Sony Headphones,Electronics,West,7,9100,63700,54145,9555
+2026-01-03,Levi's Jeans,Fashion,North,12,3200,38400,26880,11520
+2026-01-06,Prestige Cooker,Home Appliances,South,7,2750,19250,15400,3850
+2026-01-09,Dove Shampoo,Beauty,East,17,510,8670,6069,2601
+2026-01-12,iPad Pro,Electronics,East,3,77000,231000,196350,34650
+2026-01-15,Raymond Shirt,Fashion,West,15,1850,27750,19425,8325
+2026-01-18,Voltas AC,Home Appliances,North,2,36000,72000,61200,10800
+2026-01-21,Mamaearth Facewash,Beauty,South,20,389,7780,5446,2334
+2026-01-24,Noise Watch,Electronics,West,11,3400,37400,31790,5610
+2026-01-27,H&M Dress,Fashion,East,11,2150,23650,16555,7095
+2026-01-30,Dyson Vacuum,Home Appliances,South,1,42500,42500,36125,6375
+2026-02-03,The Body Shop Lotion,Beauty,North,16,810,12960,9072,3888
+2026-02-06,Samsung Washing Machine,Home Appliances,West,3,27000,81000,68850,12150
+2026-02-09,Skechers Shoes,Fashion,South,7,5200,36400,25480,10920
+2026-02-12,Boat Airdopes,Electronics,North,16,1950,31200,26520,4680
+2026-02-15,Nike Shoes,Fashion,West,10,4700,47000,32900,14100
+2026-02-18,iPhone 15,Electronics,East,2,72500,145000,123250,21750
+2026-02-21,Lakme Foundation,Beauty,East,17,910,15470,10829,4641
+2026-02-24,OnePlus 12,Electronics,South,4,53000,212000,180200,31800
+2026-02-27,Adidas Tshirt,Fashion,North,21,1300,27300,19110,8190
+2026-03-02,LG Refrigerator,Home Appliances,East,1,33000,33000,28050,4950
+2026-03-05,Maybelline Lipstick,Beauty,West,23,610,14030,9821,4209
+2026-03-08,MacBook Air,Electronics,West,2,90000,180000,153000,27000
+2026-03-11,Puma Jacket,Fashion,East,6,3750,22500,15750,6750
+2026-03-14,Philips Mixer,Home Appliances,North,8,4050,32400,25920,6480
+2026-03-17,Nivea Cream,Beauty,South,28,260,7280,5096,2184
+2026-03-20,Sony Headphones,Electronics,East,5,9400,47000,39950,7050
+2026-03-23,Levi's Jeans,Fashion,West,14,2950,41300,28910,12390
+2026-03-26,Prestige Cooker,Home Appliances,South,5,2850,14250,11400,2850
+2026-03-29,Dove Shampoo,Beauty,North,19,460,8740,6118,2622
+2026-04-02,iPad Pro,Electronics,North,2,80000,160000,136000,24000
+2026-04-05,Raymond Shirt,Fashion,South,13,1950,25350,17745,7605
+2026-04-08,Voltas AC,Home Appliances,West,3,37000,111000,94350,16650
+2026-04-11,Mamaearth Facewash,Beauty,East,22,370,8140,5698,2442
+2026-04-14,Noise Watch,Electronics,South,9,3350,30150,25628,4522
+2026-04-17,H&M Dress,Fashion,North,12,2250,27000,18900,8100
+2026-04-20,Dyson Vacuum,Home Appliances,East,1,44000,44000,37400,6600
+2026-04-23,The Body Shop Lotion,Beauty,West,15,850,12750,8925,3825
+2026-04-26,Samsung Washing Machine,Home Appliances,South,2,28000,56000,47600,8400
+2026-04-29,Skechers Shoes,Fashion,East,8,5350,42800,29960,12840
+2026-05-03,Boat Airdopes,Electronics,West,14,1850,25900,22015,3885
+2026-05-06,Nike Shoes,Fashion,North,9,4850,43650,30555,13095
+2026-05-09,iPhone 15,Electronics,South,3,71500,214500,182325,32175
+2026-05-12,Lakme Foundation,Beauty,North,18,940,16920,11844,5076
+2026-05-15,OnePlus 12,Electronics,East,5,50500,252500,214625,37875
+2026-05-18,Adidas Tshirt,Fashion,West,20,1275,25500,17850,7650
+2026-05-21,LG Refrigerator,Home Appliances,North,2,31500,63000,53550,9450
+2026-05-24,Maybelline Lipstick,Beauty,East,25,590,14750,10325,4425
+2026-05-27,MacBook Air,Electronics,North,1,89500,89500,76075,13425
+2026-05-30,Puma Jacket,Fashion,South,7,3650,25550,17885,7665
+2026-06-03,Philips Mixer,Home Appliances,East,7,3950,27650,22120,5530
+2026-06-06,Nivea Cream,Beauty,West,26,275,7150,5005,2145
+2026-06-09,Sony Headphones,Electronics,South,6,9000,54000,45900,8100
+2026-06-12,Levi's Jeans,Fashion,East,10,3150,31500,22050,9450
+2026-06-15,Prestige Cooker,Home Appliances,North,6,2700,16200,12960,3240
+2026-06-18,Dove Shampoo,Beauty,South,18,490,8820,6174,2646
+2026-06-21,iPad Pro,Electronics,West,3,78500,235500,200175,35325
+2026-06-24,Raymond Shirt,Fashion,North,16,1825,29200,20440,8760
+2026-06-27,Voltas AC,Home Appliances,East,2,36200,72400,61540,10860
+2026-06-30,Mamaearth Facewash,Beauty,West,19,365,6935,4855,2080
+2026-07-03,Noise Watch,Electronics,North,10,3250,32500,27625,4875
+2026-07-06,H&M Dress,Fashion,South,13,2200,28600,20020,8580
+2026-07-09,Dyson Vacuum,Home Appliances,West,1,41500,41500,35275,6225
+2026-07-12,The Body Shop Lotion,Beauty,East,17,820,13940,9758,4182
+2026-07-15,Samsung Washing Machine,Home Appliances,North,2,27800,55600,47260,8340
+2026-07-18,Skechers Shoes,Fashion,West,7,5150,36050,25235,10815
+2026-07-21,Boat Airdopes,Electronics,East,15,1920,28800,24480,4320
+2026-07-24,Nike Shoes,Fashion,East,11,4750,52250,36575,15675
+2026-07-27,iPhone 15,Electronics,North,2,74000,148000,125800,22200
+2026-07-30,Lakme Foundation,Beauty,South,16,960,15360,10752,4608
+2026-08-02,OnePlus 12,Electronics,West,4,52000,208000,176800,31200
+2026-08-05,Adidas Tshirt,Fashion,North,18,1320,23760,16632,7128
+2026-08-08,LG Refrigerator,Home Appliances,South,1,32800,32800,27880,4920
+2026-08-11,Maybelline Lipstick,Beauty,West,27,560,15120,10584,4536
+2026-08-14,MacBook Air,Electronics,East,2,88000,176000,149600,26400
+2026-08-17,Puma Jacket,Fashion,East,8,3550,28400,19880,8520
+2026-08-20,Philips Mixer,Home Appliances,West,9,4150,37350,29880,7470
+2026-08-23,Nivea Cream,Beauty,North,31,255,7905,5534,2371
+2026-08-26,Sony Headphones,Electronics,South,7,9300,65100,55335,9765
+2026-08-29,Levi's Jeans,Fashion,South,12,3050,36600,25620,10980
